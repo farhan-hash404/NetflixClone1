@@ -160,17 +160,7 @@ gap: 2.7rem;
     font-weight: bolder;
 
 }
-.container1:hover{
-    background-color: rgba(71, 57, 57, 0.805);
-    width: 70%;
-    height: 3vh;
-    color: rgb(86, 81, 81);
-    padding: 32px;
-    font-size: 140%;
-    color: white;
-    font-weight: bolder;
 
-}
 .footer{
     display: flex;
     flex-direction: row;
